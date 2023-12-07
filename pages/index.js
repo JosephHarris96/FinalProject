@@ -1,6 +1,6 @@
 import Head from 'next/head'
 // import Image from 'next/image'
-import { Inter } from 'next/font/google'
+// import { Inter } from 'next/font/google'
 import {Button} from '@/components/mui'
 import Layout from '@/components/Layout'
 
@@ -22,6 +22,7 @@ export default function Home() {
           Button
           </Button>
       </Layout>
+     
       
     </>
   )
