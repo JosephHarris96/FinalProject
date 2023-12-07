@@ -1,4 +1,4 @@
-import { Typography } from './mui'
+import { Typography } from '@/components/mui'
 
 const Heading = ({ component = "h1", variant, children, ...props }) => {
     return (

@@ -1,4 +1,4 @@
-import { Typography } from "./mui";
+import { Typography } from "/components/mui";
 
 const Paragraph = ({ children, ...props }) => {
     return (
